@@ -7,10 +7,10 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Screenshot
 
 Desktop version preview :<br>
-![Desktop version preview](https://github.com/Maclow42/stats-preview-card-component-main/tree/main/previews/desktop_preview.png)
+![Desktop version preview](https://github.com/Maclow42/stats-preview-card-component-main/edit/main/previews/desktop_preview.png)
 
 Smartphone version preview :<br>
-![Smartphone version preview](https://github.com/Maclow42/stats-preview-card-component-main/tree/main/previews/smartphone_preview.png)
+![Smartphone version preview](https://github.com/Maclow42/stats-preview-card-component-main/edit/main/previews/smartphone_preview.png)
 
 ### Links
 
