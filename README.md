@@ -7,15 +7,15 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Screenshot
 
 Desktop version preview :<br>
-![Desktop version preview](https://github.com/Maclow42/3-column-preview-card-component-main/blob/main/screshoot_desktop.png)
+![Desktop version preview](https://github.com/Maclow42/stats-preview-card-component-main/tree/main/previews/desktop_preview.png)
 
 Smartphone version preview :<br>
-![Smartphone version preview](https://github.com/Maclow42/3-column-preview-card-component-main/blob/main/screshoot_smartphone.png)
+![Smartphone version preview](https://github.com/Maclow42/stats-preview-card-component-main/tree/main/previews/smartphone_preview.png)
 
 ### Links
 
-- Solution URL: [https://github.com/Maclow42/3-column-preview-card-component-main](https://github.com/Maclow42/3-column-preview-card-component-main)
-- Live Site URL: [https://3-column-preview-card-component-main-bice.vercel.app](https://3-column-preview-card-component-main-bice.vercel.app)
+- Solution URL: [https://github.com/Maclow42/stats-preview-card-component-main/](https://github.com/Maclow42/stats-preview-card-component-main/)
+- Live Site URL: [https://stats-preview-card-component-main-neon-rho.vercel.app](https://stats-preview-card-component-main-neon-rho.vercel.app)
 
 ## My process
 
